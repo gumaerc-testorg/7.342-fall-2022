@@ -38,9 +38,9 @@ To investigate synaptic structural plasticity, neuroscientists turned to animal 
 
 Using Johnson et al. (2016), we will discuss synaptic plasticity in the context of synaptic pruning in long-range projections from the amygdala and orbitofrontal cortex (OFC), regions involved in processing emotions and making decisions. Counotte et al. (2010) dive into the world of individual synapses and learn about how distinctive protein content can distinguish immature and mature synaptic connections.
 
-\*Ackerman, S. *Discovering the Brain.* Washington (DC): National Academies Press (US); 1992. "[6, The Development and Shaping of the Brain](https://www.ncbi.nlm.nih.gov/books/NBK234146/)." Available from: [https://www.ncbi.nlm.nih.gov/books/NBK234146/](https://www.ncbi.nlm.nih.gov/books/NBK234146/)
+\*Ackerman, S. *Discovering the Brain.* Washington (DC): National Academies Press (US); 1992. "{{% resource_link "ab70204a-9baf-4241-bbf2-3b055e1e11af" "6, The Development and Shaping of the Brain" %}}." Available from: {{% resource_link "ab70204a-9baf-4241-bbf2-3b055e1e11af" "https://www.ncbi.nlm.nih.gov/books/NBK234146/" %}}
 
-\*\*Huttenlocher, PR. "[Synaptic density in human frontal cortex - developmental changes and effects of aging](https://pubmed.ncbi.nlm.nih.gov/427544/)." *Brain Res.* 1979 Mar 16;163(2):195-205. doi: 10.1016/0006-8993(79)90349-4. PMID: 427544.
+\*\*Huttenlocher, PR. "{{% resource_link "02c2e2e5-185c-46da-857b-59795f0dbfcd" "Synaptic density in human frontal cortex - developmental changes and effects of aging" %}}." *Brain Res.* 1979 Mar 16;163(2):195-205. doi: 10.1016/0006-8993(79)90349-4. PMID: 427544.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -150,7 +150,7 @@ Field Trip to Vertex Pharmaceuticals
 
 Progress in human health is one of the core missions of scientific research. Over many years biomedical research has generated successful therapies utilizing small molecules, proteins, and cells. More recently, researchers have explored directed gene-targeting as a new therapeutic modality. The discovery of the CRISPR/Cas9 system has revolutionized approaches to gene therapy and promises to vastly increase the power of personalized medicine. In addition, therapeutics for genetic disorders are becoming increasingly tractable as we begin to understand how to precisely target a gene or even a specific mutation of interest. Viral vectors and lipid-based cargo delivery systems to healthy cells are becoming increasingly more powerful and have greatly facilitated the delivery of gene therapies. 
 
-Today we will visit [Vertex Pharmaceuticals](https://www.vrtx.com/), a biotechnology/pharmaceutical company focused on discovering, developing, and producing innovative medicines so people with complicated diseases can lead a better life. We will learn about a novel approach to treating neuromuscular disorders and cystic fibrosis by delivering the CRISPR/Cas9 gene-editing technology to cells.
+Today we will visit {{% resource_link "83959fa5-7087-444d-9c3d-6bef9ab7ee78" "Vertex Pharmaceuticals" %}}, a biotechnology/pharmaceutical company focused on discovering, developing, and producing innovative medicines so people with complicated diseases can lead a better life. We will learn about a novel approach to treating neuromuscular disorders and cystic fibrosis by delivering the CRISPR/Cas9 gene-editing technology to cells.
 
 Students will also have a chance to ask the researchers leading this effort about career paths and relevant graduate and postdoctoral skills. This experience will introduce students to cutting-edge technology used not only in the field of synapse dynamics but more generally across many disciplines in the field of molecular medicine.
 
