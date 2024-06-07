@@ -53,7 +53,7 @@ This course is worth 6 units and is graded pass/fail. A student who attends the 
 
 ## Field Trip and Imaging Technique Demonstration
 
-In the Boston area, we are surrounded by labs that are at the forefront of biology and neuroscience research in both academia and industry. We will spend one class session on a field trip to {{% resource_link "83959fa5-7087-444d-9c3d-6bef9ab7ee78" "Vertex Pharmaceuticals" %}}, where we will hear from scientists about their career journeys and learn about their ongoing research. The CRISPR/Cas9 gene delivery system has revolutionized approaches to gene therapy and opened the door to personalized medicine. During our visit to Vertex Pharmaceuticals, we will learn about CRISPR/Cas9 approaches to treat neuromuscular disorders and cystic fibrosis. This experience will introduce students to a variety of methodologies used not only in the field of synapse dynamics but more generally across many disciplines in the field of molecular medicine.
+In the Boston area, we are surrounded by labs that are at the forefront of biology and neuroscience research in both academia and industry. We will spend one class session on a field trip to [Vertex Pharmaceuticals](https://www.vrtx.com/), where we will hear from scientists about their career journeys and learn about their ongoing research. The CRISPR/Cas9 gene delivery system has revolutionized approaches to gene therapy and opened the door to personalized medicine. During our visit to Vertex Pharmaceuticals, we will learn about CRISPR/Cas9 approaches to treat neuromuscular disorders and cystic fibrosis. This experience will introduce students to a variety of methodologies used not only in the field of synapse dynamics but more generally across many disciplines in the field of molecular medicine.
 
 To provide real-life exposure to some of the techniques used in the papers we discuss in class, students will observe a demonstration of *in vivo* 2-photon imaging of the mouse brain to view how synapses on the dendritic arbor of a single neuron behaves in the brain of a live mouse. This visit to the MIT neuroscience laboratory of Professor Elly Nedivi will exemplify experimental methods used to generate some of the scientific figures discussed in class prior to the demonstration. More specifically, students will observe how the genetic labeling of individual neurons and their synapses allows studies of how synaptic connections are made and removed in real-time. Students also will observe how specific gene targets are validated using the polymerase chain reaction (PCR), which amplifies the DNA sequence of a gene and can be used to determine the presence/absence of a specific fragment belonging to the gene of interest. Both techniques are applied broadly in the field of neurobiology.
 
@@ -118,7 +118,7 @@ Injury: Peripheral Nerve Injury and Traumatic Brain Injury
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Field Trip to {{% resource_link "83959fa5-7087-444d-9c3d-6bef9ab7ee78" "Vertex Pharmaceuticals" %}}
+Field Trip to [Vertex Pharmaceuticals](https://www.vrtx.com/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
