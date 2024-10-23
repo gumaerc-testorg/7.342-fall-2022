@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/7-342-synapse-remodeling-in-health-and-disease-fall-2022/mit7_342_f22_nsf_research-prop_example.pdf
+file: /ol-ocw-studio-app/courses/7-342-synapse-remodeling-in-health-and-disease-fall-2022/mit7_342_f22_nsf_research-prop_example.pdf
 file_size: 199824
 file_type: application/pdf
 image_metadata:
