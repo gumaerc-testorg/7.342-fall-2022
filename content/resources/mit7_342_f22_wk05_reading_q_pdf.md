@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/synapse-remodeling-in-health-and-disease/mit7_342_f22_wk05_reading_q.pdf
+file: /ol-ocw-studio-app/courses/7-342-synapse-remodeling-in-health-and-disease-fall-2022/mit7_342_f22_wk05_reading_q.pdf
 file_size: 145668
 file_type: application/pdf
 image_metadata:
